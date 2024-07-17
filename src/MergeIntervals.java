@@ -24,7 +24,7 @@ public class MergeIntervals {
         Arrays.sort(time, (a, b) -> Integer.compare(a[0], b[0]));
         ArrayList<int[]> list = new ArrayList<>();
         for (int[] interval : time) {
-            if (list.size() == 0) {
+            if (list.isEmpty()) {
                 list.add(interval);
             } else {
                 int[] pervi = list.get(list.size() - 1);

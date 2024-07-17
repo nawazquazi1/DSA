@@ -13,8 +13,7 @@ public class FindDuplicate {
     //       Input: nums = [3,1,3,4,2]
     //       Output: 3
 
-
-    public static void main(String[] args) {
+public static void main(String[] args) {
         System.out.println(findDuplicate(new int[]{3, 1, 3, 4, 2, 2}));
     }
 

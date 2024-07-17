@@ -19,6 +19,7 @@ public class MaximumAndMinimumOfAnArray {
     public static void main(String[] args) {
         System.out.println(Arrays.toString(maxMin(new int[]{3, 5, 4, 1, 9})));
         System.out.println(Arrays.toString(maxMin(new int[]{22, 14, 8, 17, 35, 3})));
+        int Keyword=123;
     }
 
     public static int[] maxMin(int[] arr){
@@ -32,8 +33,6 @@ public class MaximumAndMinimumOfAnArray {
                 min=arr[i];
             }
         }
-        int[] a={max,min};
-        return a;
-
+        return new int[]{max,min};
     }
 }
