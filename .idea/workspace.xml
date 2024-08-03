@@ -34,9 +34,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Grid_Unique_Paths.executor": "Run",
+    "Application.MinimumOperations.executor": "Run",
+    "Application.MultiplyStrings.executor": "Run",
     "Application.Reverse_Pair.executor": "Run",
     "Application.Solution.executor": "Run",
-    "Application.isPowerOfFour.executor": "Run",
+    "Application.isPowerOfFour.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",

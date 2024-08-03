@@ -91,7 +91,7 @@ class Solution {
             count += (j - (mid + 1));
         }
 
-        ArrayList<Integer> temp = new ArrayList();
+        ArrayList<Integer> temp = new ArrayList<>();
         int left = low, right = mid + 1;
         while (left <= mid && right <= high) {
             if (arr[left] <= arr[right]) {
