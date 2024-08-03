@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3d73bf2d-b046-4f3f-90ad-6df227414f8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/MaximumAndMinimumOfAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/MaximumAndMinimumOfAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reverse_Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse_Pair.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +35,12 @@
   "keyToString": {
     "Application.Grid_Unique_Paths.executor": "Run",
     "Application.Reverse_Pair.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.isPowerOfFour.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Strivers_Dsa_Question_Answer",
     "onboarding.tips.debug.path": "D:/DSA/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
